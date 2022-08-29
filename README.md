@@ -61,3 +61,9 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
+
+=============================================
+This diagram shows how to start creating the app using codeigniter. To get full userguide, please visit the official web in https://codeigniter.com/user_guide/index.html
+
+![image](https://user-images.githubusercontent.com/37644705/187121073-7ad7b084-406c-4f94-ace7-177c0a2cd706.png)
+
