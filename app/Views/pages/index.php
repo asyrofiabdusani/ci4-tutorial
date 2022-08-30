@@ -3,6 +3,11 @@
 <?= $this->section('content'); ?>
 
 <h3>List Data Employee</h3>
+<div class="d-flex justify-content-end">
+    <a href="pages/insert">
+        <button type="button" class="btn btn-success">Insert New Data</button>
+    </a>
+</div>
 <table class="table table-bordered table-hover fixed-to mt-3">
     <thead>
         <tr>
