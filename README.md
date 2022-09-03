@@ -67,3 +67,5 @@ This diagram shows how to start creating the app using codeigniter. To get full 
 
 ![image](https://user-images.githubusercontent.com/37644705/187121073-7ad7b084-406c-4f94-ace7-177c0a2cd706.png)
 
+
+*note : see the commit to know the step of code for this tutorial
